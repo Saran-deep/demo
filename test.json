@@ -1,0 +1,38 @@
+{
+  "requestId": "13cff354-e6bb-4251-a347-58943edd503b",
+  "orderNumber": "AU1355",
+  "providerId": "CEVA-AU",
+  "returnNumber": "100500018",
+  "returnCreationDate": "20260202",
+  "plant": "2551",
+  "additionalData": [{ "key": "customerType", "value": "NEC-B2C" }],
+  "entries": [
+    {
+      "productCode": "198976486192",
+      "quantity": 3,
+      "unitOfMeasure": "EA",
+      "scheduleLineNo": 1,
+      "size": "738",
+      "materialId": "60750863",
+      "additionalData": [{ "key": "countryOfOrigin", "value": "AU" }]
+    },
+    {
+      "productCode": "198976486147",
+      "quantity": 3,
+      "unitOfMeasure": "EA",
+      "scheduleLineNo": 2,
+      "size": "700",
+      "materialId": "60750863",
+      "additionalData": [{ "key": "countryOfOrigin", "value": "AU" }]
+    },
+    {
+      "productCode": "198976486178",
+      "quantity": 2,
+      "unitOfMeasure": "EA",
+      "scheduleLineNo": 3,
+      "size": "718",
+      "materialId": "60750863",
+      "additionalData": [{ "key": "countryOfOrigin", "value": "AU" }]
+    }
+  ]
+}
